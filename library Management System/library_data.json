@@ -1,0 +1,154 @@
+{
+    "books": [
+        {
+            "book_id": "0001",
+            "title": "language",
+            "author": "navn",
+            "name": "python",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0002",
+            "title": "lang",
+            "author": "cppp",
+            "name": "c++",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0003",
+            "title": "lang",
+            "author": "javaaa",
+            "name": "JAVA",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0004",
+            "title": "lang",
+            "author": "JS",
+            "name": "JavaScript",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0006",
+            "title": "tech",
+            "author": "CS",
+            "name": "cyber",
+            "status": "Issued",
+            "due_date": "2026-09-13"
+        },
+        {
+            "book_id": "0007",
+            "title": "tech ",
+            "author": "cs",
+            "name": "fundamental of CS",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0005",
+            "title": "qwert",
+            "author": "vbn",
+            "name": "qwerty",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0008",
+            "title": "asdfg",
+            "author": "wert",
+            "name": "wzexrctfvygbuhnijm",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": "0010",
+            "title": "wsedfg",
+            "author": "wexrctvybnumi",
+            "name": "drdsce",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": 7783,
+            "title": "safhsjf",
+            "author": "sjhdfjsaf",
+            "name": "asjdhf",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": 8129,
+            "title": "ttttt",
+            "author": "tttt",
+            "name": "ttt",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": 4646,
+            "title": "huhi",
+            "author": "gfjgh",
+            "name": "hvhjv",
+            "status": "Available",
+            "due_date": null
+        },
+        {
+            "book_id": 5910,
+            "title": "hasfh ",
+            "author": "hsdjkfh s",
+            "name": "jsdfh sadf",
+            "status": "Available",
+            "due_date": null
+        }
+    ],
+    "history": [
+        {
+            "book_id": "0001",
+            "book_name": "python",
+            "issuer": "navn",
+            "issue_date": "2026-05-13 12:24:10",
+            "due_date": "2026-06-02",
+            "type": "Issue"
+        },
+        {
+            "book_id": "0001",
+            "book_name": "python",
+            "return_date": "2026-05-13 12:32:25",
+            "type": "Return"
+        },
+        {
+            "book_id": "0005",
+            "book_name": "php",
+            "issuer": "navneet",
+            "issue_date": "2026-05-13 12:49:17",
+            "due_date": "2026-06-22",
+            "type": "Issue"
+        },
+        {
+            "book_id": "0006",
+            "book_name": "cyber",
+            "issuer": "asdfg",
+            "issue_date": "2026-05-13 13:17:19",
+            "due_date": "2026-09-13",
+            "type": "Issue"
+        },
+        {
+            "book_id": "9999",
+            "book_name": "testtt",
+            "issuer": "op",
+            "issue_date": "2026-05-13 14:41:46",
+            "due_date": "2026-05-16",
+            "type": "Issue"
+        },
+        {
+            "book_id": "9999",
+            "book_name": "testtt",
+            "return_date": "2026-05-13 14:42:05",
+            "type": "Return"
+        }
+    ]
+}
